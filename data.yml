@@ -1,9 +1,9 @@
 landscape:
   - category:
-    name: Category 1
+    name: Application Development
     subcategories:
       - subcategory:
-        name: Subcategory 1-1
+        name: Observability
         items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -86,4 +86,3 @@ landscape:
             name: Item 9
             repo_url: https://github.com/cncf/landscape2
             twitter: https://twitter.com/CloudNativeFdn
-
