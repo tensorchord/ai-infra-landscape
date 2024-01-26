@@ -3,33 +3,94 @@ landscape:
     name: Application Development
     subcategories:
       - subcategory:
-        name: Observability
+        name: Agent & Prompt Framework
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 1
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 1
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/langchain
+            description: LangChain is a language model application development library
+            homepage_url: https://langchain.com
+            logo: langchain.svg
+            name: LangChain
+            project: opensource
+            repo_url: https://github.com/langchain-ai/langchain
+            twitter: https://twitter.com/langchainai
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 2
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 2
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/llamaindex
+            description: LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models.
+            homepage_url: https://www.llamaindex.ai/
+            logo: llamaindex.svg
+            name: LlamaIndex
+            repo_url: https://github.com/run-llama/llama_index
+            twitter: https://twitter.com/llama_index
           - item:
-            description: This is the description of item 3
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 3
+            crunchbase: https://www.crunchbase.com/organization/langgenius-inc
+            description: Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
+            homepage_url: https://dify.ai
+            logo: dify.svg
+            name: Dify
+            repo_url: https://github.com/langgenius/dify
+            twitter: https://twitter.com/dify_ai/
+          - item:
+            description: Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+            homepage_url: https://www.langflow.org/
+            logo: langflow.svg
+            name: Langflow
+            repo_url: https://github.com/logspace-ai/langflow
+            twitter: https://twitter.com/logspace_ai
       - subcategory:
-        name: Subcategory 1-2
+        name: Observability & Evaluation
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/finto-acba
+            description: |
+              🪢 Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. 🕵️‍♂️ Langfuse: the LLM engineering platform. Debug, analyze and iterate together - 🍊YC W23 🤖 Stable SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm, Flowise, Superagent and Langflow
+            homepage_url: https://langfuse.com/
+            logo: langfuse.svg
+            name: langfuse
+            repo_url: https://github.com/langfuse/langfuse
+            twitter: https://twitter.com/langfuse
+      - subcategory:
+        name: IDE & Workspace
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/tensorchord
+            description: |
+              envd (ɪnˈvdɪ) is a command-line tool that helps you create the container-based development environment for AI/ML.
+
+              Creating development environments is not easy, especially with today's complex systems and dependencies. With everything from Python to CUDA, BASH scripts, and Dockerfiles constantly breaking, it can feel like a nightmare - until now!
+
+              Instantly get your environment running exactly as you need with a simple declaration of the packages you seek in build.envd and just one command: envd up!
+            homepage_url: https://envd.tensorchord.ai/
+            logo: envd.svg
+            name: envd
+            repo_url: https://github.com/tensorchord/envd
+            twitter: https://twitter.com/tensorchord
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/gradio
+            description: Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!
+            homepage_url: https://www.gradio.app/
+            logo: gradio.svg
+            name: Gradio
+            repo_url: https://github.com/gradio-app/gradio
+            twitter: https://twitter.com/gradio
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/streamlit
+            description: Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required.
+            homepage_url: https://streamlit.io/
+            logo: streamlit.svg
+            name: Streamlit
+            repo_url: https://github.com/streamlit/streamlit
+            twitter: https://twitter.com/streamlit
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: Performant, customizable web apps in pure Python. Deploy in seconds.
+            homepage_url: https://reflex.dev
+            logo: reflex.svg
+            name: Reflex
+            repo_url: https://github.com/reflex-dev/reflex
+            twitter: https://twitter.com/getreflex
+      - subcategory:
+        name: Testing & Debugging
         items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -39,18 +100,11 @@ landscape:
             name: Item 4
             repo_url: https://github.com/cncf/landscape2
             twitter: https://twitter.com/CloudNativeFdn
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 5
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 5
-            repo_url: https://github.com/cncf/landscape2
   - category:
-    name: Category 2
+    name: Orchestration
     subcategories:
       - subcategory:
-        name: Subcategory 2-1
+        name: Scheduling
         items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -61,22 +115,19 @@ landscape:
             project: graduated
             repo_url: https://github.com/cncf/landscape2
             twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Workflow & Pipeline
+        items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 7
+            description: This is the description of item 4
             homepage_url: https://cncf.io
             logo: cncf.svg
-            name: Item 7
-            project: sandbox
+            name: Item 4
             repo_url: https://github.com/cncf/landscape2
             twitter: https://twitter.com/CloudNativeFdn
-          - item:
-            description: This is the description of item 8
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 8
       - subcategory:
-        name: Subcategory 2-2
+        name: Gateway & Router
         items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -84,5 +135,173 @@ landscape:
             homepage_url: https://cncf.io
             logo: cncf.svg
             name: Item 9
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+  - category:
+    name: Data Management
+    subcategories:
+      - subcategory:
+        name: Vector Database
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Data Processing
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: ETL & Data Pipeline
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Database Tooling
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+  - category:
+    name: Runtime
+    subcategories:
+      - subcategory:
+        name: Inference & Deployment
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Training
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Finetuning & RLHF
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+  - category:
+    name: Foundation Model
+    subcategories:
+      - subcategory:
+        name: LLM
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Code
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Image
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: Audio
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+  - category:
+    name: Hardware & Cloud
+    subcategories:
+      - subcategory:
+        name: Cloud Provider
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+      - subcategory:
+        name: GPU
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            name: Item 6
+            project: graduated
             repo_url: https://github.com/cncf/landscape2
             twitter: https://twitter.com/CloudNativeFdn

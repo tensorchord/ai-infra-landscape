@@ -22,8 +22,8 @@ foundation: AI Infrastructure
 #   open_graph: <OPEN_GRAPH_IMAGE_URL>
 #
 images:
-  footer_logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
-  header_logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+  footer_logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
+  header_logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
 
 # Categories (optional)
 #
@@ -90,11 +90,11 @@ colors:
 #       - value: <SUBCATEGORY2_NAME>
 #
 featured_items:
-  - field: maturity
+  - field: opensource
     options:
-      - value: graduated
+      - value: opensource
         order: 1
-        label: Graduated
+        label: opensource
 
 # Grid items size (optional)
 #
@@ -122,14 +122,14 @@ grid_items_size: large
 #       - <CATEGORY1_NAME>
 #       - <CATEGORY2_NAME>
 #
-groups:
-  - name: All categories
-    categories:
-      - Category 1
-      - Category 2
-  - name: Only category 2
-    categories:
-      - Category 2
+# groups:
+#   - name: All categories
+#     categories:
+#       - Category 1
+#       - Category 2
+#   - name: Only category 2
+#     categories:
+#       - Category 2
 
 # Name of the members category (optional)
 #
@@ -177,16 +177,9 @@ screenshot_width: 1500
 #   youtube: <YOUTUBE_URL>
 #
 social_networks:
-  facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
-  flickr: "https://www.flickr.com/photos/143247548@N03/albums"
-  github: "https://github.com/cncf"
-  instagram: "https://www.instagram.com/humans.of.cloudnative/"
-  linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-  slack: "https://slack.cncf.io/"
-  twitch: "https://www.twitch.tv/cloudnativefdn"
-  twitter: "https://twitter.com/cloudnativefdn"
-  wechat: "https://www.cncf.io/wechat/"
-  youtube: "https://www.youtube.com/c/cloudnativefdn"
+  github: "https://github.com/tensorchord"
+  linkedin: "https://www.linkedin.com/company/tensorchord/"
+  twitter: "https://twitter.com/tensorchord"
 
 # TAGs (optional)
 #
