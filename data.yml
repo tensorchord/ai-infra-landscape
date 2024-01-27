@@ -416,6 +416,13 @@ landscape:
             repo_url: https://github.com/leptonai/leptonai
             twitter: https://twitter.com/leptonAI
           - item:
+            crunchbase: https://www.crunchbase.com/organization/deep-infra
+            description: Fast ML Inference, Simple API
+            homepage_url: https://deepinfra.com/
+            logo: deepinfra.svg
+            name: deepinfra
+            twitter: https://twitter.com/DeepInfra
+          - item:
             crunchbase: https://www.crunchbase.com/organization/modal-labs
             description: Run generative AI models, large-scale batch jobs, job queues, and much more.
             homepage_url: https://modal.com/
@@ -423,12 +430,26 @@ landscape:
             name: Modal
             twitter: https://twitter.com/modal_labs
           - item:
+            crunchbase: https://www.crunchbase.com/organization/together-1a7e
+            description: The fastest cloud platform for building and running generative AI.
+            homepage_url: https://www.together.ai/
+            logo: together.svg
+            name: together.ai
+            twitter: https://twitter.com/togethercompute
+          - item:
             crunchbase: https://www.crunchbase.com/organization/modular-ai
             description: Modular is an AI software developer platform that unifies the development and deployment of AI for everyone.
             homepage_url: https://www.modular.com/max
             logo: modular.svg
             name: Modular Max
             twitter: https://twitter.com/modular
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/fireworks-ai
+            description: Fireworks.ai is a lightning-fast inference platform that helps you serve your large language models (LLMs).
+            homepage_url: https://fireworks.ai/
+            logo: fireworks.svg
+            name: fireworks
+            twitter: https://twitter.com/FireworksAI_HQ
       - subcategory:
         name: Training
         items:
