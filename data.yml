@@ -335,14 +335,30 @@ landscape:
         name: Inference & Deployment
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/replicate
+            description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
+            homepage_url: https://replicate.com/
+            logo: replicate.svg
+            name: replicate
+            project: opensource
+            repo_url: https://github.com/replicate/cog
+            twitter: https://twitter.com/replicate
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/lepton
+            description: Run AI applications efficiently, at scale, and in minutes with a cloud native platform.
+            homepage_url: https://www.lepton.ai/
+            logo: lepton.svg
+            name: lepton
+            project: opensource
+            repo_url: https://github.com/leptonai/leptonai
+            twitter: https://twitter.com/leptonAI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/modal-labs
+            description: Run generative AI models, large-scale batch jobs, job queues, and much more.
+            homepage_url: https://modal.com/
+            logo: modal.svg
+            name: Modal
+            twitter: https://twitter.com/modal_labs
       - subcategory:
         name: Training
         items:
@@ -359,14 +375,13 @@ landscape:
         name: Finetuning & RLHF
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            description: Get LLMs in production in 2 minutes with Lamini!
+            homepage_url: https://www.lamini.ai/
+            logo: lamini.svg
+            name: lamini
+            project: opensource
+            repo_url: https://github.com/lamini-ai/lamini
+            twitter: https://twitter.com/LaminiAI
   - category:
     name: Foundation Model
     subcategories:
