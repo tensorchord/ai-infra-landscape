@@ -209,14 +209,89 @@ landscape:
         name: Vector Database
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/chroma-4a75
+            description: the AI-native open-source embedding database
+            homepage_url: https://www.trychroma.com/
+            logo: chroma.svg
+            name: chroma
+            project: opensource
+            repo_url: https://github.com/chroma-core/chroma
+            twitter: https://twitter.com/weaviate_io
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/zilliz
+            description: Vector database built for scalable similarity search
+            homepage_url: https://milvus.io/
+            logo: milvus.svg
+            name: Milvus
+            project: opensource
+            repo_url: https://github.com/milvus-io/milvus
+            twitter: https://twitter.com/milvusio
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/tensorchord
+            description: Scalable Vector Search in Postgres. Revolutionize Vector Search, not Database.
+            homepage_url: https://pgvecto.rs
+            logo: pgvectors.svg
+            name: pgvecto.rs
+            project: opensource
+            repo_url: https://github.com/tensorchord/pgvecto.rs
+            twitter: https://twitter.com/tensorchord
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/qdrant
+            description: Powering the next generation of AI applications with advanced and high-performant vector similarity search technology.
+            homepage_url: https://qdrant.tech/
+            logo: qdrant.svg
+            name: Qdrant
+            project: opensource
+            repo_url: https://github.com/qdrant/qdrant
+            twitter: https://twitter.com/qdrant_engine
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/weaviate
+            description: Weaviate is an open source, AI-native vector database that helps developers create intuitive and reliable AI-powered applications.
+            homepage_url: https://weaviate.io/
+            logo: weaviate.svg
+            name: weaviate
+            project: opensource
+            repo_url: https://github.com/weaviate/weaviate
+            twitter: https://twitter.com/weaviate_io
+          - item:
+            description: Open-source vector similarity search for Postgres
+            homepage_url: https://github.com/pgvector/pgvector
+            logo: pgvector.svg
+            name: pgvector
+            project: opensource
+            repo_url: https://github.com/pgvector/pgvector
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/lancedb
+            description: A new kind of vector database, built for developers
+            homepage_url: https://lancedb.com/
+            logo: lancedb.svg
+            name: lancedb
+            project: opensource
+            repo_url: https://github.com/lancedb/lancedb
+            twitter: https://twitter.com/lancedb
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/vespa-ai
+            description:  the open source platform for combining data and AI, online.
+            homepage_url: https://vespa.ai
+            logo: vespa.svg
+            name: vespa
+            project: opensource
+            repo_url: https://github.com/vespa-engine/vespa
+            twitter: https://twitter.com/vespaengine
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/pinecone
+            description: Pinecone serverless lets you deliver remarkable GenAI applications faster, at up to 50x lower cost.
+            homepage_url: https://www.pinecone.io/
+            logo: pinecone.svg
+            name: pinecone
+            twitter: https://twitter.com/pinecone
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/supabase
+            description: The Postgres Vector database and AI Toolkit
+            homepage_url: https://supabase.com/vector
+            logo: supabase.svg
+            name: supabase
+            twitter: https://twitter.com/supabase
       - subcategory:
         name: Data Processing
         items:
