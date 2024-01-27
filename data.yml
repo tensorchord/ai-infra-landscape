@@ -40,6 +40,14 @@ landscape:
             project: opensource
             repo_url: https://github.com/logspace-ai/langflow
             twitter: https://twitter.com/logspace_ai
+          - item:
+            description: The open source alternative to OpenAI Assistants API
+            homepage_url: https://www.superagent.sh/
+            logo: superagent.svg
+            name: Superagent
+            project: opensource
+            repo_url: https://github.com/homanp/superagent
+            twitter: https://twitter.com/superagent_ai
       - subcategory:
         name: Observability & Evaluation
         items:
@@ -53,13 +61,6 @@ landscape:
             project: opensource
             repo_url: https://github.com/langfuse/langfuse
             twitter: https://twitter.com/langfuse
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/humanloop
-            description: Humanloop helps developers and product teams build high-performing applications on top of large language models like GPT-4. We help you solve the most critical workflows around prompt engineering and evaluation.
-            homepage_url: https://humanloop.com/
-            logo: humanloop.svg
-            name: Humanloop
-            twitter: https://twitter.com/humanloop
           - item:
             crunchbase: https://www.crunchbase.com/organization/helicone
             description: The easiest way to monitor your LLM-applications at scale
@@ -78,6 +79,31 @@ landscape:
             project: opensource
             repo_url: https://github.com/AgentOps-AI/agentops
             twitter: https://twitter.com/AgentOpsAI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/deepchecks
+            description: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and models from research to production.
+            homepage_url: https://deepchecks.com/
+            name: deepchecks
+            logo: deepchecks.svg
+            project: opensource
+            repo_url: https://github.com/deepchecks/deepchecks
+            twitter: https://twitter.com/deepchecks
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/giskard-ai
+            description: The testing framework for ML models, from tabular to LLMs
+            homepage_url: https://giskard.ai/
+            name: giskard
+            logo: giskard.svg
+            project: opensource
+            repo_url: https://github.com/Giskard-AI/giskard
+            twitter: https://twitter.com/giskard_ai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/humanloop
+            description: Humanloop helps developers and product teams build high-performing applications on top of large language models like GPT-4. We help you solve the most critical workflows around prompt engineering and evaluation.
+            homepage_url: https://humanloop.com/
+            logo: humanloop.svg
+            name: Humanloop
+            twitter: https://twitter.com/humanloop
       - subcategory:
         name: IDE & Workspace
         items:
@@ -126,13 +152,12 @@ landscape:
         name: Testing & Debugging
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 4
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 4
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/momentic-0b4b
+            description: Momentic enables developers to deploy AI agents to test web apps end-to-end. No code required - just describe user flows using natural language.
+            homepage_url: https://momentic.ai/
+            logo: momentic.svg
+            name: Momentic
+            twitter: https://twitter.com/MomenticAI
   - category:
     name: Orchestration
     subcategories:
@@ -140,36 +165,43 @@ landscape:
         name: Scheduling
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            description: The Machine Learning Toolkit for Kubernetes
+            homepage_url: https://www.kubeflow.org/
+            logo: kubeflow.svg
+            name: Kubeflow
+            project: cncf
+            repo_url: https://github.com/kubeflow/kubeflow
+            twitter: https://twitter.com/kubeflow
       - subcategory:
         name: Workflow & Pipeline
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 4
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 4
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            description: Machine Learning Pipelines for Kubeflow
+            homepage_url: https://www.kubeflow.org/
+            logo: kubeflow.svg
+            name: Kubeflow pipelines
+            project: cncf
+            repo_url: https://github.com/kubeflow/pipelines
+            twitter: https://twitter.com/kubeflow
       - subcategory:
         name: Gateway & Router
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 9
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 9
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/portkey
+            description: A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+            homepage_url: https://portkey.ai/
+            logo: portkey.svg
+            name: Portkey
+            project: opensource
+            repo_url: https://github.com/Portkey-AI/gateway
+            twitter: https://twitter.com/PortkeyAI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/portkey
+            description: The Martian Model Router dynamically routes requests to the best LLM in real-time.
+            homepage_url: https://withmartian.com/
+            logo: martian.svg
+            name: Martian
+            twitter: https://twitter.com/withmartian
   - category:
     name: Data Management
     subcategories:
