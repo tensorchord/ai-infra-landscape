@@ -450,6 +450,20 @@ landscape:
             logo: fireworks.svg
             name: fireworks
             twitter: https://twitter.com/FireworksAI_HQ
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/anyscale
+            description: Run, Fine Tune and Scale LLMs via production-ready APIs
+            homepage_url: https://www.anyscale.com/endpoints
+            logo: anyscale.svg
+            name: Anyscale Endpoints
+            twitter: https://twitter.com/raydistributed
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/octoml
+            description: OctoAI delivers production-grade GenAI solutions running on the most efficient compute, empowering builders to launch the next generation of AI applications.
+            homepage_url: https://octo.ai/
+            logo: octoai.svg
+            name: OctoAI
+            twitter: https://twitter.com/octoaicloud
       - subcategory:
         name: Training
         items:
