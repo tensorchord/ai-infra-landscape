@@ -48,6 +48,12 @@ landscape:
             project: opensource
             repo_url: https://github.com/homanp/superagent
             twitter: https://twitter.com/superagent_ai
+          - item:
+            description: From no-code to full code, Fixie is the world's leading platform for building conversational AI agents that are designed to answer questions, take action, and live directly alongside your application.
+            homepage_url: https://www.fixie.ai/
+            logo: fixie.svg
+            name: Fixie
+            twitter: https://twitter.com/fixieai
       - subcategory:
         name: Observability & Evaluation
         items:
@@ -118,6 +124,13 @@ landscape:
             logo: openlayer.svg
             name: Openlayer
             twitter: https://twitter.com/openlayerco
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/patronus-ai-61cd
+            description: Detect LLM mistakes at scale and use generative AI with confidence
+            homepage_url: https://www.patronus.ai/
+            logo: patronus.svg
+            name: Patronus
+            twitter: https://twitter.com/PatronusAI
       - subcategory:
         name: IDE & Workspace
         items:
@@ -513,23 +526,40 @@ landscape:
         name: Cloud Provider
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/salad-technologies
+            description: The Most Affordable Cloud for AI/ML Inference at Scale
+            homepage_url: https://salad.com/
+            logo: salad.svg
+            name: salad
+            twitter: https://twitter.com/salad_chefs
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/coreweave
+            description: CoreWeave is a specialized cloud provider, delivering a massive scale of GPUs on top of the industry’s fastest and most flexible infrastructure.
+            homepage_url: https://www.coreweave.com/
+            logo: coreweave.svg
+            name: CoreWeave
+            twitter: https://twitter.com/CoreWeave
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/lambda-labs
+            description: On-demand & reserved cloud GPUs for AI training & inference
+            homepage_url: https://lambdalabs.com/
+            logo: lambda.svg
+            name: Lambda Labs
+            twitter: https://twitter.com/lambdaapi
       - subcategory:
         name: GPU
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/sambanova-systems
+            description: SambaNova Systems builds AI hardware and integrated systems to run AI applications from the data center to the cloud.
+            homepage_url: https://sambanova.ai/
+            logo: sambanova.svg
+            name: SambaNova
+            twitter: https://twitter.com/SambaNovaAI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/graphcore
+            description: Harness the power of IPU-powered generative AI to supercharge growth, streamline operations and bring intelligence to your enterprise applications. Build and deploy AI-native products and platforms using Graphcore's cloud services, pre-trained models, optimized inference engines and APIs.
+            homepage_url: https://www.graphcore.ai/
+            logo: graphcore.svg
+            name: GRAPHCORE
+            twitter: https://twitter.com/graphcoreai
