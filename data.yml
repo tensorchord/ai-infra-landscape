@@ -20,6 +20,7 @@ landscape:
             homepage_url: https://www.llamaindex.ai/
             logo: llamaindex.svg
             name: LlamaIndex
+            project: opensource
             repo_url: https://github.com/run-llama/llama_index
             twitter: https://twitter.com/llama_index
           - item:
@@ -28,6 +29,7 @@ landscape:
             homepage_url: https://dify.ai
             logo: dify.svg
             name: Dify
+            project: opensource
             repo_url: https://github.com/langgenius/dify
             twitter: https://twitter.com/dify_ai/
           - item:
@@ -35,6 +37,7 @@ landscape:
             homepage_url: https://www.langflow.org/
             logo: langflow.svg
             name: Langflow
+            project: opensource
             repo_url: https://github.com/logspace-ai/langflow
             twitter: https://twitter.com/logspace_ai
       - subcategory:
@@ -47,8 +50,34 @@ landscape:
             homepage_url: https://langfuse.com/
             logo: langfuse.svg
             name: langfuse
+            project: opensource
             repo_url: https://github.com/langfuse/langfuse
             twitter: https://twitter.com/langfuse
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/humanloop
+            description: Humanloop helps developers and product teams build high-performing applications on top of large language models like GPT-4. We help you solve the most critical workflows around prompt engineering and evaluation.
+            homepage_url: https://humanloop.com/
+            logo: humanloop.svg
+            name: Humanloop
+            twitter: https://twitter.com/humanloop
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/helicone
+            description: The easiest way to monitor your LLM-applications at scale
+            homepage_url: https://www.helicone.ai/
+            logo: helicone.svg
+            name: Helicone
+            project: opensource
+            repo_url: https://github.com/Helicone/helicone
+            twitter: https://twitter.com/helicone_ai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/agentops
+            description: AgentOps is the toolkit for evaluating and developing robust and reliable AI agents.
+            homepage_url: https://www.agentops.ai/
+            name: agentops
+            logo: agentops.svg
+            project: opensource
+            repo_url: https://github.com/AgentOps-AI/agentops
+            twitter: https://twitter.com/AgentOpsAI
       - subcategory:
         name: IDE & Workspace
         items:
@@ -63,6 +92,7 @@ landscape:
             homepage_url: https://envd.tensorchord.ai/
             logo: envd.svg
             name: envd
+            project: opensource
             repo_url: https://github.com/tensorchord/envd
             twitter: https://twitter.com/tensorchord
           - item:
@@ -71,6 +101,7 @@ landscape:
             homepage_url: https://www.gradio.app/
             logo: gradio.svg
             name: Gradio
+            project: opensource
             repo_url: https://github.com/gradio-app/gradio
             twitter: https://twitter.com/gradio
           - item:
@@ -79,6 +110,7 @@ landscape:
             homepage_url: https://streamlit.io/
             logo: streamlit.svg
             name: Streamlit
+            project: opensource
             repo_url: https://github.com/streamlit/streamlit
             twitter: https://twitter.com/streamlit
           - item:
@@ -87,6 +119,7 @@ landscape:
             homepage_url: https://reflex.dev
             logo: reflex.svg
             name: Reflex
+            project: opensource
             repo_url: https://github.com/reflex-dev/reflex
             twitter: https://twitter.com/getreflex
       - subcategory:
