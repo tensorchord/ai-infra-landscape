@@ -1,4 +1,6 @@
-# Generative AI Infrastructure Landscape
+# AI Infrastructure Landscape
+
+[ai-infra.fun](https://ai-infra.fun)
 
 This is a landscape of the infrastructure that powers the generative AI ecosystem. It is a work in progress, and we welcome contributions from the community.
 

@@ -98,12 +98,26 @@ landscape:
             repo_url: https://github.com/Giskard-AI/giskard
             twitter: https://twitter.com/giskard_ai
           - item:
+            crunchbase: https://www.crunchbase.com/organization/weights-biases
+            description: Weights & Biases helps AI developers build better models faster. Quickly track experiments, version and iterate on datasets, evaluate model performance, reproduce models, and manage your ML workflows end-to-end.
+            homepage_url: https://wandb.ai/site
+            logo: wandb.svg
+            name: Weights & Biases
+            twitter: https://twitter.com/Weights_Biases
+          - item:
             crunchbase: https://www.crunchbase.com/organization/humanloop
             description: Humanloop helps developers and product teams build high-performing applications on top of large language models like GPT-4. We help you solve the most critical workflows around prompt engineering and evaluation.
             homepage_url: https://humanloop.com/
             logo: humanloop.svg
             name: Humanloop
             twitter: https://twitter.com/humanloop
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/unbox-3db0
+            description: Openlayer is an evaluation tool that fits into your development and production pipelines to help you ship high-quality models with confidence.
+            homepage_url: https://www.openlayer.com/
+            logo: openlayer.svg
+            name: Openlayer
+            twitter: https://twitter.com/openlayerco
       - subcategory:
         name: IDE & Workspace
         items:
@@ -293,7 +307,7 @@ landscape:
             name: supabase
             twitter: https://twitter.com/supabase
       - subcategory:
-        name: Data Processing
+        name: ETL & Data Pipeline
         items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/unstructured-technologies-inc
@@ -304,18 +318,24 @@ landscape:
             project: opensource
             repo_url: https://github.com/Unstructured-IO/unstructured
             twitter: https://twitter.com/UnstructuredIO
-      - subcategory:
-        name: ETL & Data Pipeline
-        items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            description: Indexify is a reactive structured extraction engine for un-structured data.
+            homepage_url: https://getindexify.io/
+            logo: indexify.svg
+            name: Indexify
+            repo_url: https://github.com/tensorlakeai/indexify
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/nomic-ai
+            description: Interact, discover insights and build with unstructured text, image and audio data.
+            homepage_url: https://atlas.nomic.ai/
+            logo: atlas.svg
+            name: NOMIC atlas
+            twitter: https://twitter.com/nomic_ai
+          - item:
+            description: Shift data left
+            homepage_url: https://www.gable.ai/
+            logo: gable.svg
+            name: gable
       - subcategory:
         name: Database Tooling
         items:
@@ -339,6 +359,15 @@ landscape:
       - subcategory:
         name: Inference & Deployment
         items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/bentoml
+            description: BentoML is the platform for software engineers to build AI products.
+            homepage_url: https://bentoml.com/
+            logo: bentoml.svg
+            name: bentoml
+            project: opensource
+            repo_url: https://github.com/bentoml/bentoml
+            twitter: https://twitter.com/bentomlai
           - item:
             crunchbase: https://www.crunchbase.com/organization/replicate
             description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
