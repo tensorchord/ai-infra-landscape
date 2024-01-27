@@ -296,14 +296,14 @@ landscape:
         name: Data Processing
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/unstructured-technologies-inc
+            description: The unstructured library is designed to help preprocess structure unstructured text documents for use in downstream machine learning tasks. Examples of documents that can be processed using the unstructured library include PDFs, XML and HTML documents.
+            homepage_url: https://unstructured.io/
+            logo: unstructured.svg
+            name: unstructured
+            project: opensource
+            repo_url: https://github.com/Unstructured-IO/unstructured
+            twitter: https://twitter.com/UnstructuredIO
       - subcategory:
         name: ETL & Data Pipeline
         items:
@@ -320,14 +320,19 @@ landscape:
         name: Database Tooling
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            description: Improve your SQL skills and save time using AI by generating optimized SQL queries effortlessly!
+            homepage_url: https://chat2db.ai/
+            logo: chat2db.svg
+            name: chat2db
+            project: opensource
+            repo_url: https://github.com/chat2db/Chat2DB
+            twitter: https://twitter.com/chat2_db
+          - item:
+            description: Improve your SQL skills and save time using AI by generating optimized SQL queries effortlessly!
+            homepage_url: https://www.text2sql.ai/
+            logo: text2sql.svg
+            name: text2sql
+            twitter: https://twitter.com/text2sql
   - category:
     name: Runtime
     subcategories:
