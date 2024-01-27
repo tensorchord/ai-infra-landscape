@@ -13,7 +13,7 @@ To add a new project, please open a pull request with your changes to the [data.
       - subcategory:
         name: Subcategory Name
         items:
-          - item:
+          - item: ...
           - item:
             crunchbase: https://www.crunchbase.com/organization/tensorchord
             description: Scalable Vector Search in Postgres. Revolutionize Vector Search, not Database.
