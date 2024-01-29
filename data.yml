@@ -419,6 +419,38 @@ landscape:
             repo_url: https://github.com/bentoml/bentoml
             twitter: https://twitter.com/bentomlai
           - item:
+            description: A high-throughput and memory-efficient inference and serving engine for LLMs
+            homepage_url: https://docs.vllm.ai/en/latest/
+            logo: vllm.svg
+            name: vLLM
+            project: opensource
+            repo_url: https://github.com/vllm-project/vllm
+          - item:
+            description: Highly scalable and standards based Model Inference Platform on Kubernetes for Trusted A
+            homepage_url: https://kserve.github.io/website/latest/
+            logo: kserve.svg
+            name: kserve
+            project: opensource
+            repo_url: https://github.com/kserve/kserve
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/seldon
+            description: An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
+            homepage_url: https://www.seldon.io/solutions/core-plus
+            logo: seldon.svg
+            name: Seldon Core
+            project: opensource
+            repo_url: https://github.com/SeldonIO/seldon-core
+            twitter: https://twitter.com/seldon_io
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/tensorchord
+            description: OpenModelZ is tool to deploy your models to any cluster (GCP, AWS, Lambda labs, your home lab, or even a single machine).
+            homepage_url: https://docs.open.modelz.ai/
+            logo: openmodelz.svg
+            name: OpenModelZ
+            project: opensource
+            repo_url: https://github.com/tensorchord/openmodelz
+            twitter: https://twitter.com/tensorchord
+          - item:
             crunchbase: https://www.crunchbase.com/organization/replicate
             description: Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
             homepage_url: https://replicate.com/
