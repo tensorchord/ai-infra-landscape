@@ -660,6 +660,13 @@ landscape:
             project: opensource
             repo_url: https://github.com/TabbyML/tabby
             twitter: https://twitter.com/Tabby_ML
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/tabnine
+            description: The AI coding assistant that you control
+            homepage_url: https://www.tabnine.com/
+            logo: tabnine.svg
+            name: Tabnine
+            twitter: https://twitter.com/tabnine
       - subcategory:
         name: Image
         items:
