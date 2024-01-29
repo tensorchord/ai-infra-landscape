@@ -49,8 +49,9 @@ landscape:
             repo_url: https://github.com/homanp/superagent
             twitter: https://twitter.com/superagent_ai
           - item:
+            crunchbase: https://www.crunchbase.com/organization/fixie-ai
             description: From no-code to full code, Fixie is the world's leading platform for building conversational AI agents that are designed to answer questions, take action, and live directly alongside your application.
-            homepage_url: https://www.fixie.ai/
+            homepage_url: https://fixie.ai/
             logo: fixie.svg
             name: Fixie
             twitter: https://twitter.com/fixieai
@@ -131,6 +132,26 @@ landscape:
             logo: patronus.svg
             name: Patronus
             twitter: https://twitter.com/PatronusAI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/magniv-ebaf
+            description: Visually manage prompts. Evaluate models. Log LLM requests. Search usage history. Collaborate as a team.
+            homepage_url: https://promptlayer.com/
+            logo: promptlayer.svg
+            name: PromptLayer
+            twitter: https://twitter.com/promptlayer
+          - item:
+            description: An end-to-end platform for teams to bring LLM applications into production
+            homepage_url: https://baserun.ai/welcome
+            logo: baserun.svg
+            name: baserun
+            twitter: https://twitter.com/baserunai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/gantry-590c
+            description: Powerful observability, analytics, and evaluation for your AI-powered products.
+            homepage_url: https://www.gantry.io/
+            logo: gantry.svg
+            name: GANTRY
+            twitter: https://twitter.com/gantry_ml
       - subcategory:
         name: IDE & Workspace
         items:
@@ -458,12 +479,26 @@ landscape:
             name: Anyscale Endpoints
             twitter: https://twitter.com/raydistributed
           - item:
+            crunchbase: https://www.crunchbase.com/organization/banana-d87d
+            description: Inference hosting for AI teams who ship fast and scale faster.
+            homepage_url: https://www.banana.dev/
+            logo: banana.svg
+            name: BANANA
+            twitter: https://twitter.com/bananadev_
+          - item:
             crunchbase: https://www.crunchbase.com/organization/octoml
             description: OctoAI delivers production-grade GenAI solutions running on the most efficient compute, empowering builders to launch the next generation of AI applications.
             homepage_url: https://octo.ai/
             logo: octoai.svg
             name: OctoAI
             twitter: https://twitter.com/octoaicloud
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/runpod
+            description: Globally distributed GPU cloud built for production. Develop, train, and scale AI applications.
+            homepage_url: https://www.runpod.io/
+            logo: runpod.svg
+            name: RunPod
+            twitter: https://twitter.com/runpod_io
       - subcategory:
         name: Training
         items:
@@ -522,14 +557,14 @@ landscape:
         name: Code
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            crunchbase: https://www.crunchbase.com/organization/tabbyml
+            description: Opensource, self-hosted AI coding assistant
+            homepage_url: https://tabby.tabbyml.com/
+            logo: tabby.svg
+            name: Tabby
+            project: opensource
+            repo_url: https://github.com/TabbyML/tabby
+            twitter: https://twitter.com/Tabby_ML
       - subcategory:
         name: Image
         items:
