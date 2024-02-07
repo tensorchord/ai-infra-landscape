@@ -2,7 +2,9 @@
 
 This is a landscape of the infrastructure that powers the generative AI ecosystem. We welcome contributions from the community.
 
-[![landscape](./build/docs/landscape.png)](https://ai-infra.fun)
+<div align="center">
+<a href="https://ai-infra.fun"><img src="./build/docs/landscape.png" width="600"></a>
+</div>
 
 ## Add a new project
 
