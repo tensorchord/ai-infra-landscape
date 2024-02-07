@@ -582,6 +582,14 @@ landscape:
         name: Finetuning & RLHF
         items:
           - item:
+            description: An integrated platform to fine-tune, deploy and manage LLM applications.
+            homepage_url: https://tensormatrix.com/
+            logo: tensormatrix.svg
+            name: tensormatrix
+            project: opensource
+            repo_url: https://github.com/TUDB-Labs/multi-lora-fine-tune
+            twitter: https://twitter.com/Tensor_matrix
+          - item:
             description: Get LLMs in production in 2 minutes with Lamini!
             homepage_url: https://www.lamini.ai/
             logo: lamini.svg
