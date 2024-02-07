@@ -25,6 +25,10 @@ images:
   footer_logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
   header_logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
 
+analytics:
+  gtm:                            # Google Tag Manager configuration
+    container_id: G-VRQJQFEC1N  # Landscape web application container ID
+
 
 url: https://ai-infra.fun
 # Categories (optional)
