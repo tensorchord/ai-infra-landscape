@@ -25,6 +25,8 @@ images:
   footer_logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
   header_logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
 
+
+url: https://ai-infra.fun
 # Categories (optional)
 #
 # Categories information is read from the `landscape.yml` data file. The way
@@ -180,6 +182,22 @@ social_networks:
   github: "https://github.com/tensorchord"
   linkedin: "https://www.linkedin.com/company/tensorchord/"
   twitter: "https://twitter.com/tensorchord"
+
+header:
+  links:
+    github: "https://github.com/tensorchord/ai-infra-landscape"
+  logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
+
+
+footer:
+  links:
+    github: "https://github.com/tensorchord"
+    linkedin: "https://www.linkedin.com/company/tensorchord/"
+    twitter: "https://twitter.com/tensorchord"
+  logo: "https://avatars.githubusercontent.com/u/100543303?s=200&v=4"
+  text: |
+    Copyright © 2024 TensorChord Inc.
+
 
 # TAGs (optional)
 #
