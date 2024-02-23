@@ -578,6 +578,13 @@ landscape:
             logo: runpod.svg
             name: RunPod
             twitter: https://twitter.com/runpod_io
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/daocloud
+            description: Baize is a Cloud Native AI module in DCE 5.0 that offers an integrated AI computing platform. It optimizes GPU performance, schedules computing resources efficiently, and provides simplified AI development frameworks to accelerate AI application deployment across industries.
+            homepage_url: https://docs.daocloud.io/en/baize/intro/
+            logo: daocloud.svg
+            name: DCE 5.0
+            twitter: https://twitter.com/daocloud_io
       - subcategory:
         name: Finetuning & RLHF
         items:
