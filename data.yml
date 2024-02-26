@@ -392,6 +392,15 @@ landscape:
         name: ETL & Data Pipeline
         items:
           - item:
+            crunchbase: https://www.crunchbase.com/organization/airbyte-b3bb
+            description: Airbyte an open-source data integration platform with built-in connectors for AI data pipelines.
+            homepage_url: https://airbyte.com
+            logo: airbyte.svg
+            name: Airbyte
+            project: opensource
+            repo_url: https://github.com/airbytehq/airbyte
+            twitter: https://twitter.com/AirbyteHQ
+          - item:
             crunchbase: https://www.crunchbase.com/organization/unstructured-technologies-inc
             description: The unstructured library is designed to help preprocess structure unstructured text documents for use in downstream machine learning tasks. Examples of documents that can be processed using the unstructured library include PDFs, XML and HTML documents.
             homepage_url: https://unstructured.io/
