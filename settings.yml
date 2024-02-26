@@ -229,3 +229,9 @@ footer:
 #   <TAG2>:
 #     - category: <CATEGORY2>
 #
+upcoming_event:
+  name: "Add your favorite product here"
+  start: "2024-02-19"
+  end: "2025-03-22"
+  banner_url: "https://private-user-images.githubusercontent.com/5100735/307777053-4e41ed03-d05c-4bef-87ff-ad03aff3a781.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NDg5MjUsIm5iZiI6MTcwODk0ODYyNSwicGF0aCI6Ii81MTAwNzM1LzMwNzc3NzA1My00ZTQxZWQwMy1kMDVjLTRiZWYtODdmZi1hZDAzYWZmM2E3ODEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDIyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAyMjZUMTE1NzA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjFjODU0MzJkMTAyYmZiYjhkNmI2OTUyOTUwMDMwNTdlMzVhN2YzOTFlNWRhYzA2MzVhNjU1ZmEzZGRjMmRhNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.eDFRvSURChbhS9ff6Ai5DXTb8wt-veMBN7TSCmpn4ko"
+  details_url: "https://github.com/tensorchord/ai-infra-landscape?tab=readme-ov-file#add-a-new-project"
