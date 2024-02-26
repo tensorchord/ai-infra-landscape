@@ -462,6 +462,18 @@ landscape:
             logo: text2sql.svg
             name: text2sql
             twitter: https://twitter.com/text2sql
+      - subcategory:
+        name: Data Curation
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/mirage
+            description: Lightly is a data curation company for machine learning that helps companies build better models through better data.
+            homepage_url: https://www.lightly.ai/
+            logo: lightly.svg
+            name: lightly
+            project: opensource
+            repo_url: https://github.com/lightly-ai/lightly
+            twitter: https://twitter.com/LightlyAI
   - category:
     name: Runtime
     subcategories:
