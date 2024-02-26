@@ -254,15 +254,6 @@ landscape:
             repo_url: https://github.com/flyteorg/flyte
             twitter: https://twitter.com/flyteorg
           - item:
-            crunchbase: https://www.crunchbase.com/organization/zenml
-            description: ZenML is an extensible, open-source MLOps framework for creating portable, production-ready machine learning pipelines.
-            homepage_url: https://zenml.io
-            logo: zenml.svg
-            name: ZenML
-            project: opensource
-            repo_url: https://github.com/zenml-io/zenml
-            twitter: https://twitter.com/zenml_io
-          - item:
             crunchbase: https://www.crunchbase.com/organization/outerbounds
             description: Open-source Metaflow makes it quick and easy to build and manage real-life ML, AI, and data science projects.
             homepage_url: https://metaflow.org/
@@ -271,6 +262,15 @@ landscape:
             project: opensource
             repo_url: https://github.com/Netflix/metaflow
             twitter: https://twitter.com/MetaflowOSS
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/zenml
+            description: ZenML is an extensible, open-source MLOps framework for creating portable, production-ready machine learning pipelines.
+            homepage_url: https://zenml.io
+            logo: zenml.svg
+            name: ZenML
+            project: opensource
+            repo_url: https://github.com/zenml-io/zenml
+            twitter: https://twitter.com/zenml_io
       - subcategory:
         name: Gateway & Router
         items:
