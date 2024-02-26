@@ -824,6 +824,12 @@ landscape:
             logo: lambda.svg
             name: Lambda Labs
             twitter: https://twitter.com/lambdaapi
+          - item:
+            description: AI-centric cloud platform ready for intensive workloads with NVIDIA® H100 Tensor Core GPUs.
+            homepage_url: https://nebius.ai
+            logo: nebiusai.svg
+            name: Nebius AI
+            twitter: https://twitter.com/nebiusofficial
       - subcategory:
         name: GPU
         items:
