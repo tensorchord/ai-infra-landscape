@@ -257,7 +257,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/zenml
             description: ZenML is an extensible, open-source MLOps framework for creating portable, production-ready machine learning pipelines.
             homepage_url: https://zenml.io
-            logo: flyte.svg
+            logo: zenml.svg
             name: ZenML
             project: opensource
             repo_url: https://github.com/zenml-io/zenml
