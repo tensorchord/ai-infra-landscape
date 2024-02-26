@@ -299,6 +299,18 @@ landscape:
     name: Data Management
     subcategories:
       - subcategory:
+        name: Storage
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/juicefs
+            description: JuiceFS is a high performance distributed file system for cloud, compatible with POSIX, HDFS and S3 API
+            homepage_url: https://juicefs.com
+            logo: juicefs.svg
+            name: JuiceFS
+            project: opensource
+            repo_url: https://github.com/juicedata/juicefs
+            twitter: https://twitter.com/juicedatainc
+      - subcategory:
         name: Data Version control
         items:
           - item:
