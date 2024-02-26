@@ -233,5 +233,5 @@ upcoming_event:
   name: "Add your favorite product here"
   start: "2024-02-19"
   end: "2025-03-22"
-  banner_url: "https://i.postimg.cc/L6KsNctg/307777053-4e41ed03-d05c-4bef-87ff-ad03aff3a781.png"
+  banner_url: "https://raw.githubusercontent.com/tensorchord/ai-infra-landscape/master/logos/banner.png"
   details_url: "https://github.com/tensorchord/ai-infra-landscape?tab=readme-ov-file#add-a-new-project"
