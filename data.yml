@@ -282,7 +282,7 @@ landscape:
             name: Martian
             twitter: https://twitter.com/withmartian
           - item:
-            description: The Martian Model Router dynamically routes requests to the best LLM in real-time.
+            description: AI Gateway – the portal to making your AI applications more observable, reliable, and scalable.
             homepage_url: https://developers.cloudflare.com/ai-gateway/
             logo: cloudflare.svg
             name: Cloudflare AI Gateway
