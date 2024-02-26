@@ -388,6 +388,12 @@ landscape:
             logo: supabase.svg
             name: supabase
             twitter: https://twitter.com/supabase
+          - item:
+            description: The SQL Vector Database for Scalable AI
+            homepage_url: https://myscale.com/
+            logo: myscale.svg
+            name: MyScale
+            twitter: https://twitter.com/MyScaleDB
       - subcategory:
         name: ETL & Data Pipeline
         items:
