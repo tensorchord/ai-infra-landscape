@@ -219,7 +219,13 @@ landscape:
             homepage_url: https://lightning.ai/
             logo: lightning.svg
             name: Lightning Studio
-            twitter: https://twitter.com/LightningAI
+          - item:
+            crunchbase:
+            description: mlinfra deploys ML Infrastructure and MLOps tooling anywhere quickly and with best practices with a single command
+            homepage_url: https://mlinfra.io/latest/
+            logo: mlinfra.svg
+            name: mlinfra
+            twitter:
       - subcategory:
         name: Testing & Debugging
         items:
@@ -309,7 +315,7 @@ landscape:
             name: lakeFS
             project: opensource
             repo_url: https://github.com/treeverse/lakeFS
-            twitter: https://twitter.com/lakeFS              
+            twitter: https://twitter.com/lakeFS
       - subcategory:
         name: Vector Database
         items:
@@ -376,7 +382,7 @@ landscape:
             twitter: https://twitter.com/lancedb
           - item:
             crunchbase: https://www.crunchbase.com/organization/vespa-ai
-            description:  the open source platform for combining data and AI, online.
+            description: the open source platform for combining data and AI, online.
             homepage_url: https://vespa.ai
             logo: vespa.svg
             name: vespa
