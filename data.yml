@@ -651,6 +651,14 @@ landscape:
             logo: daocloud.svg
             name: DCE 5.0
             twitter: https://twitter.com/daocloud_io
+          - item:
+            description: LLM inference in pure C/C++
+            homepage_url: https://ggml.ai/
+            repo_url: https://github.com/ggerganov/ggml
+            logo: ggml.svg
+            name: GGML
+            project: opensource
+            twitter: https://twitter.com/ggerganov
       - subcategory:
         name: Finetuning & RLHF
         items:
