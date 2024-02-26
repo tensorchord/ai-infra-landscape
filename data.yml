@@ -15,6 +15,15 @@ landscape:
             repo_url: https://github.com/langchain-ai/langchain
             twitter: https://twitter.com/langchainai
           - item:
+            crunchbase: https://www.crunchbase.com/organization/deepset
+            description: Haystack is an open-source LLM framework for building production-ready applications
+            homepage_url: https://haystack.deepset.ai/
+            logo: haystack.svg
+            name: Haystack
+            project: opensource
+            repo_url: https://github.com/deepset-ai/haystack
+            twitter: https://twitter.com/Haystack_AI
+          - item:
             crunchbase: https://www.crunchbase.com/organization/llamaindex
             description: LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models.
             homepage_url: https://www.llamaindex.ai/
