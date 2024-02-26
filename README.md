@@ -35,7 +35,7 @@ The logo should be a SVG file, and should be placed in the `logos` directory. Th
 
 You do not need to build the site to add a new project. Only [`data.yml`](data.yml) and [`logos`](logos) need to be updated.
 
-To build the site, you will need to have [our own langdscape2 fork](https://github.com/tensorchord/landscape2/) installed. Then, run the following commands:
+To build the site, you will need to have [landscape2](https://github.com/tensorchord/landscape2/) installed. Then, run the following commands:
 
 ```bash
 landscape2 build --data-file data.yml --settings-file settings.yml --guide-file guide.yml --logos-path logos --output-dir build --cache-dir cache-dir
