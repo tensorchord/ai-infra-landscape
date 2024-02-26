@@ -281,6 +281,18 @@ landscape:
     name: Data Management
     subcategories:
       - subcategory:
+        name: Data Version control
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/treeverse
+            description: LakeFS is a developer of a scalable data version control system
+            homepage_url: https://lakefs.io/
+            logo: lakefs.svg
+            name: lakeFS
+            project: opensource
+            repo_url: https://github.com/treeverse/lakeFS
+            twitter: https://twitter.com/lakeFS              
+      - subcategory:
         name: Vector Database
         items:
           - item:
