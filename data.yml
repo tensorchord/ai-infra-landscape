@@ -457,6 +457,15 @@ landscape:
         name: Inference & Deployment
         items:
           - item:
+            crunchbase: https://www.crunchbase.com/organization/huggingface
+            description: The AI community building the future.
+            homepage_url: https://huggingface.co/
+            logo: huggingface.svg
+            name: huggingface
+            project: opensource
+            repo_url: https://github.com/huggingface
+            twitter: https://twitter.com/huggingface
+          - item:
             crunchbase: https://www.crunchbase.com/organization/bentoml
             description: BentoML is the platform for software engineers to build AI products.
             homepage_url: https://bentoml.com/
@@ -642,15 +651,6 @@ landscape:
             project: opensource
             repo_url: https://github.com/mistralai/mistral-src
             twitter: https://twitter.com/MistralAI
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/huggingface
-            description: The AI community building the future.
-            homepage_url: https://huggingface.co/
-            logo: huggingface.svg
-            name: huggingface
-            project: opensource
-            repo_url: https://github.com/huggingface
-            twitter: https://twitter.com/huggingface
           - item:
             description: OpenAI GPT
             homepage_url: https://openai.com/product
