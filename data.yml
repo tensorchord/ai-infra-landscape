@@ -221,6 +221,27 @@ landscape:
             name: Lightning Studio
             twitter: https://twitter.com/LightningAI
       - subcategory:
+        name: Media IDE & Workspace
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/stability-ai
+            description: This UI allows for the design and execution of stable diffusion pipelines using a graph/nodes/flowchart based interface. 
+            homepage_url: https://github.com/comfyanonymous/ComfyUI
+            logo: 
+            name: ComfyUI
+            project: opensource
+            repo_url: https://github.com/comfyanonymous/ComfyUI
+            twitter: https://twitter.com/stabilityai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/invoke-ai
+            description: InvokeAI is a leading deployment solution for image generation models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
+            homepage_url: https://www.invoke.com
+            logo: invoke.svg
+            name: Invoke
+            project: opensource
+            repo_url: https://github.com/invoke-ai/InvokeAI
+            twitter: https://twitter.com/Invoke_AI
+      - subcategory:
         name: Testing & Debugging
         items:
           - item:
