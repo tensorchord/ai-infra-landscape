@@ -214,26 +214,10 @@ landscape:
             repo_url: https://github.com/reflex-dev/reflex
             twitter: https://twitter.com/getreflex
           - item:
-            crunchbase: https://www.crunchbase.com/organization/grid-ai
-            description: Lightning AI introduces a paradigm shift to AI development. Studio integrates your favorite ML tools into a single cohesive experience. It also eliminates the environment discrepancy between local code which runs on the cloud. This allows for trivial multi-node, scalable AI web apps, endpoints and more.
-            homepage_url: https://lightning.ai/
-            logo: lightning.svg
-            name: Lightning Studio
-          - item:
-            crunchbase:
-            description: mlinfra deploys ML Infrastructure and MLOps tooling anywhere quickly and with best practices with a single command
-            homepage_url: https://mlinfra.io/latest/
-            logo: mlinfra.svg
-            name: mlinfra
-            twitter:
-      - subcategory:
-        name: Media IDE & Workspace
-        items:
-          - item:
             crunchbase: https://www.crunchbase.com/organization/stability-ai
             description: This UI allows for the design and execution of stable diffusion pipelines using a graph/nodes/flowchart based interface. 
             homepage_url: https://github.com/comfyanonymous/ComfyUI
-            logo: 
+            logo: comfyui.svg
             name: ComfyUI
             project: opensource
             repo_url: https://github.com/comfyanonymous/ComfyUI
@@ -247,6 +231,19 @@ landscape:
             project: opensource
             repo_url: https://github.com/invoke-ai/InvokeAI
             twitter: https://twitter.com/Invoke_AI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/grid-ai
+            description: Lightning AI introduces a paradigm shift to AI development. Studio integrates your favorite ML tools into a single cohesive experience. It also eliminates the environment discrepancy between local code which runs on the cloud. This allows for trivial multi-node, scalable AI web apps, endpoints and more.
+            homepage_url: https://lightning.ai/
+            logo: lightning.svg
+            name: Lightning Studio
+          - item:
+            crunchbase:
+            description: mlinfra deploys ML Infrastructure and MLOps tooling anywhere quickly and with best practices with a single command
+            homepage_url: https://mlinfra.io/latest/
+            logo: mlinfra.svg
+            name: mlinfra
+            twitter:
       - subcategory:
         name: Testing & Debugging
         items:
@@ -337,9 +334,6 @@ landscape:
             project: opensource
             repo_url: https://github.com/juicedata/juicefs
             twitter: https://twitter.com/juicedatainc
-      - subcategory:
-        name: Data Version control
-        items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/treeverse
             description: LakeFS is a developer of a scalable data version control system
@@ -529,12 +523,6 @@ landscape:
             repo_url: https://github.com/chat2db/Chat2DB
             twitter: https://twitter.com/chat2_db
           - item:
-            description: Improve your SQL skills and save time using AI by generating optimized SQL queries effortlessly!
-            homepage_url: https://www.text2sql.ai/
-            logo: text2sql.svg
-            name: text2sql
-            twitter: https://twitter.com/text2sql
-          - item:
             crunchbase: https://www.crunchbase.com/organization/vanna-ai
             description: Chat with your SQL. Python package for accurate Text-to-SQL Generation via LLMs using RAG
             homepage_url: https://vanna.ai/
@@ -542,7 +530,13 @@ landscape:
             name: Vanna.AI
             project: opensource
             repo_url: https://github.com/vanna-ai/vanna
-            twitter: https://twitter.com/vannadotai          
+            twitter: https://twitter.com/vannadotai   
+          - item:
+            description: Improve your SQL skills and save time using AI by generating optimized SQL queries effortlessly!
+            homepage_url: https://www.text2sql.ai/
+            logo: text2sql.svg
+            name: text2sql
+            twitter: https://twitter.com/text2sql       
       - subcategory:
         name: Data Curation
         items:
@@ -561,15 +555,6 @@ landscape:
       - subcategory:
         name: Inference & Deployment
         items:
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/huggingface
-            description: The AI community building the future.
-            homepage_url: https://huggingface.co/
-            logo: huggingface.svg
-            name: huggingface
-            project: opensource
-            repo_url: https://github.com/huggingface
-            twitter: https://twitter.com/huggingface
           - item:
             crunchbase: https://www.crunchbase.com/organization/bentoml
             description: BentoML is the platform for software engineers to build AI products.
@@ -621,6 +606,14 @@ landscape:
             repo_url: https://github.com/replicate/cog
             twitter: https://twitter.com/replicate
           - item:
+            description: LLM inference in pure C/C++
+            homepage_url: https://ggml.ai/
+            repo_url: https://github.com/ggerganov/ggml
+            logo: ggml.svg
+            name: GGML
+            project: opensource
+            twitter: https://twitter.com/ggerganov
+          - item:
             crunchbase: https://www.crunchbase.com/organization/lepton
             description: Run AI applications efficiently, at scale, and in minutes with a cloud native platform.
             homepage_url: https://www.lepton.ai/
@@ -629,6 +622,15 @@ landscape:
             project: opensource
             repo_url: https://github.com/leptonai/leptonai
             twitter: https://twitter.com/leptonAI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/huggingface
+            description: The AI community building the future.
+            homepage_url: https://huggingface.co/
+            logo: huggingface.svg
+            name: huggingface
+            project: opensource
+            repo_url: https://github.com/huggingface
+            twitter: https://twitter.com/huggingface
           - item:
             crunchbase: https://www.crunchbase.com/organization/deep-infra
             description: Fast ML Inference, Simple API
@@ -706,14 +708,6 @@ landscape:
             logo: daocloud.svg
             name: DCE 5.0
             twitter: https://twitter.com/daocloud_io
-          - item:
-            description: LLM inference in pure C/C++
-            homepage_url: https://ggml.ai/
-            repo_url: https://github.com/ggerganov/ggml
-            logo: ggml.svg
-            name: GGML
-            project: opensource
-            twitter: https://twitter.com/ggerganov
       - subcategory:
         name: Finetuning & RLHF
         items:
