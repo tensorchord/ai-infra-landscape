@@ -873,6 +873,12 @@ landscape:
             name: Lambda Labs
             twitter: https://twitter.com/lambdaapi
           - item:
+            description: AI-centric cloud platform ready for intensive workloads with NVIDIA® H100 Tensor Core GPUs.
+            homepage_url: https://nebius.ai
+            logo: nebiusai.svg
+            name: Nebius AI
+            twitter: https://twitter.com/nebiusofficial
+          - item:
             crunchbase: https://www.crunchbase.com/organization/latitudesh
             description: Deploy dedicated GPU clusters and GPU Containers in seconds
             homepage_url: https://www.latitude.sh/
