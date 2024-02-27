@@ -723,6 +723,13 @@ landscape:
             logo: mystic.svg
             name: Mystic AI
             twitter: https://twitter.com/mysticdotai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/dutch-analytics
+            description: Powerful AI model serving and orchestration with unmatched simplicity, speed and scale. In cloud, on-premise, hybrid or multicloud.
+            homepage_url: https://ubiops.com/
+            logo: ubiops.svg
+            name: UbiOps
+            twitter: https://twitter.com/UbiOps_
       - subcategory:
         name: Finetuning & RLHF
         items:
