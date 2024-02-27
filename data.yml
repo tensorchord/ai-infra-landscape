@@ -66,7 +66,7 @@ landscape:
             twitter: https://twitter.com/fixieai
           - item:
             description: Phidata is a toolkit for building AI Assistants using function calling.
-            homepage_url: https://www.phidata.com/
+            homepage_url: https://www.phidata.com
             logo: phidata.svg
             name: Phidata
             project: opensource
