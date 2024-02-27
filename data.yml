@@ -261,6 +261,14 @@ landscape:
         name: Workflow & Pipeline
         items:
           - item:
+            description: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings and highest GPU availability — all with a simple interface.
+            homepage_url: https://github.com/skypilot-org/skypilot
+            logo: skypilot.svg
+            name: SkyPilot
+            project: opensource
+            repo_url: https://github.com/skypilot-org/skypilot
+            twitter: https://twitter.com/skypilot_org
+          - item:
             description: Machine Learning Pipelines for Kubeflow
             homepage_url: https://www.kubeflow.org/
             logo: kubeflow.svg
