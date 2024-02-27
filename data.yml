@@ -215,7 +215,7 @@ landscape:
             twitter: https://twitter.com/getreflex
           - item:
             crunchbase: https://www.crunchbase.com/organization/stability-ai
-            description: This UI allows for the design and execution of stable diffusion pipelines using a graph/nodes/flowchart based interface. 
+            description: This UI allows for the design and execution of stable diffusion pipelines using a graph/nodes/flowchart based interface.
             homepage_url: https://github.com/comfyanonymous/ComfyUI
             logo: comfyui.svg
             name: ComfyUI
@@ -538,13 +538,13 @@ landscape:
             name: Vanna.AI
             project: opensource
             repo_url: https://github.com/vanna-ai/vanna
-            twitter: https://twitter.com/vannadotai   
+            twitter: https://twitter.com/vannadotai
           - item:
             description: Improve your SQL skills and save time using AI by generating optimized SQL queries effortlessly!
             homepage_url: https://www.text2sql.ai/
             logo: text2sql.svg
             name: text2sql
-            twitter: https://twitter.com/text2sql       
+            twitter: https://twitter.com/text2sql
       - subcategory:
         name: Data Curation
         items:
@@ -716,6 +716,13 @@ landscape:
             logo: daocloud.svg
             name: DCE 5.0
             twitter: https://twitter.com/daocloud_io
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/neuro-ai
+            description: Run AI models as a scalable and secure API in your cloud or on our serverless cloud.
+            homepage_url: https://www.mystic.ai/
+            logo: mystic.svg
+            name: Mystic AI
+            twitter: https://twitter.com/mysticdotai
       - subcategory:
         name: Finetuning & RLHF
         items:
