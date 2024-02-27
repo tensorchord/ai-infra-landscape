@@ -64,6 +64,14 @@ landscape:
             logo: fixie.svg
             name: Fixie
             twitter: https://twitter.com/fixieai
+          - item: 
+            description: Floom is an open-source AI Gateway, helping developers elevate apps with AI features. Offering dev-first AI Pipeline development including a production-grade AI Gateway with routing, caching, cost management and more, as well AI Pipeline hosting on on-prem Docker container & Floom Cloud, Floom is built for production grade AI integration.
+            homepage_url: https://floom.ai
+            logo: floom.svg
+            name: Floom
+            project: opensource
+            repo_url: https://github.com/FloomAI/Floom
+            twitter: https://twitter.com/Floom_AI
       - subcategory:
         name: Observability & Evaluation
         items:
@@ -303,6 +311,14 @@ landscape:
             project: opensource
             repo_url: https://github.com/zenml-io/zenml
             twitter: https://twitter.com/zenml_io
+          - item: 
+            description: Floom is an open-source AI Gateway, helping developers elevate apps with AI features. Offering dev-first AI Pipeline development including a production-grade AI Gateway with routing, caching, cost management and more, as well AI Pipeline hosting on on-prem Docker container & Floom Cloud, Floom is built for production grade AI integration.
+            homepage_url: https://floom.ai
+            logo: floom.svg
+            name: Floom
+            project: opensource
+            repo_url: https://github.com/FloomAI/Floom
+            twitter: https://twitter.com/Floom_AI
       - subcategory:
         name: Gateway & Router
         items:
@@ -327,6 +343,14 @@ landscape:
             homepage_url: https://developers.cloudflare.com/ai-gateway/
             logo: cloudflare.svg
             name: Cloudflare AI Gateway
+          - item: 
+            description: Floom is an open-source AI Gateway, helping developers elevate apps with AI features. Offering dev-first AI Pipeline development including a production-grade AI Gateway with routing, caching, cost management and more, as well AI Pipeline hosting on on-prem Docker container & Floom Cloud, Floom is built for production grade AI integration.
+            homepage_url: https://floom.ai
+            logo: floom.svg
+            name: Floom
+            project: opensource
+            repo_url: https://github.com/FloomAI/Floom
+            twitter: https://twitter.com/Floom_AI
   - category:
     name: Data Management
     subcategories:
