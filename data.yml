@@ -902,3 +902,13 @@ landscape:
             logo: graphcore.svg
             name: GRAPHCORE
             twitter: https://twitter.com/graphcoreai
+      - subcategory:
+        name: Cameras & EdgeAI
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/luxonis
+            description: Luxonis builds stereo depth cameras with built-in AI accelerator
+            homepage_url: https://luxonis.com/
+            logo: luxonis.svg
+            name: Luxonis
+            twitter: https://twitter.com/luxonis/
