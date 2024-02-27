@@ -65,7 +65,7 @@ landscape:
             name: Fixie
             twitter: https://twitter.com/fixieai
           - item:
-            description: Floom is an open-source AI Gateway, helping developers elevate apps with AI features.
+            description: Floom is an open-source AI Gateway, helping developers elevate apps with AI features. From prompt design to a full gateway, Docker & Cloud hosting, Floom is built for production grade AI integration.
             homepage_url: https://floom.ai
             logo: floom.svg
             name: Floom
@@ -312,7 +312,7 @@ landscape:
             repo_url: https://github.com/zenml-io/zenml
             twitter: https://twitter.com/zenml_io
           - item:
-            description: Floom is an AI Gateway, helping developers elevate apps with AI features.
+            description: description: Floom is an open-source AI Gateway, helping developers elevate apps with AI features. From prompt design to a full gateway, Docker & Cloud hosting, Floom is built for production grade AI integration.
             homepage_url: https://floom.ai
             logo: floom.svg
             name: Floom
@@ -344,7 +344,7 @@ landscape:
             logo: cloudflare.svg
             name: Cloudflare AI Gateway
           - item:
-            description: Floom is an AI Gateway, helping developers elevate apps with AI features.
+            description: Floom is an open-source AI Gateway, helping developers elevate apps with AI features. From prompt design to a full gateway, Docker & Cloud hosting, Floom is built for production grade AI integration.
             homepage_url: https://floom.ai
             logo: floom.svg
             name: Floom
