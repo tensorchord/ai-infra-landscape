@@ -219,7 +219,34 @@ landscape:
             homepage_url: https://lightning.ai/
             logo: lightning.svg
             name: Lightning Studio
-            twitter: https://twitter.com/LightningAI
+          - item:
+            crunchbase:
+            description: mlinfra deploys ML Infrastructure and MLOps tooling anywhere quickly and with best practices with a single command
+            homepage_url: https://mlinfra.io/latest/
+            logo: mlinfra.svg
+            name: mlinfra
+            twitter:
+      - subcategory:
+        name: Media IDE & Workspace
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/stability-ai
+            description: This UI allows for the design and execution of stable diffusion pipelines using a graph/nodes/flowchart based interface. 
+            homepage_url: https://github.com/comfyanonymous/ComfyUI
+            logo: 
+            name: ComfyUI
+            project: opensource
+            repo_url: https://github.com/comfyanonymous/ComfyUI
+            twitter: https://twitter.com/stabilityai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/invoke-ai
+            description: InvokeAI is a leading deployment solution for image generation models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
+            homepage_url: https://www.invoke.com
+            logo: invoke.svg
+            name: Invoke
+            project: opensource
+            repo_url: https://github.com/invoke-ai/InvokeAI
+            twitter: https://twitter.com/Invoke_AI
       - subcategory:
         name: Testing & Debugging
         items:
@@ -299,6 +326,18 @@ landscape:
     name: Data Management
     subcategories:
       - subcategory:
+        name: Storage
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/juicefs
+            description: JuiceFS is a high performance distributed file system for cloud, compatible with POSIX, HDFS and S3 API
+            homepage_url: https://juicefs.com
+            logo: juicefs.svg
+            name: JuiceFS
+            project: opensource
+            repo_url: https://github.com/juicedata/juicefs
+            twitter: https://twitter.com/juicedatainc
+      - subcategory:
         name: Data Version control
         items:
           - item:
@@ -309,7 +348,7 @@ landscape:
             name: lakeFS
             project: opensource
             repo_url: https://github.com/treeverse/lakeFS
-            twitter: https://twitter.com/lakeFS              
+            twitter: https://twitter.com/lakeFS
       - subcategory:
         name: Vector Database
         items:
@@ -376,7 +415,7 @@ landscape:
             twitter: https://twitter.com/lancedb
           - item:
             crunchbase: https://www.crunchbase.com/organization/vespa-ai
-            description:  the open source platform for combining data and AI, online.
+            description: the open source platform for combining data and AI, online.
             homepage_url: https://vespa.ai
             logo: vespa.svg
             name: vespa
@@ -495,6 +534,15 @@ landscape:
             logo: text2sql.svg
             name: text2sql
             twitter: https://twitter.com/text2sql
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/vanna-ai
+            description: Chat with your SQL. Python package for accurate Text-to-SQL Generation via LLMs using RAG
+            homepage_url: https://vanna.ai/
+            logo: vanna.svg
+            name: Vanna.AI
+            project: opensource
+            repo_url: https://github.com/vanna-ai/vanna
+            twitter: https://twitter.com/vannadotai          
       - subcategory:
         name: Data Curation
         items:
@@ -830,6 +878,13 @@ landscape:
             logo: nebiusai.svg
             name: Nebius AI
             twitter: https://twitter.com/nebiusofficial
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/latitudesh
+            description: Deploy dedicated GPU clusters and GPU Containers in seconds
+            homepage_url: https://www.latitude.sh/
+            logo: latitudesh.svg
+            name: Latitude.sh
+            twitter: https://twitter.com/latitudesh
       - subcategory:
         name: GPU
         items:
