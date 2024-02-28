@@ -64,6 +64,14 @@ landscape:
             logo: fixie.svg
             name: Fixie
             twitter: https://twitter.com/fixieai
+          - item:
+            description: Phidata is a toolkit for building AI Assistants using function calling.
+            homepage_url: https://www.phidata.com
+            logo: phidata.svg
+            name: Phidata
+            project: opensource
+            repo_url: https://github.com/phidatahq/phidata
+            twitter: https://twitter.com/phidatahq
       - subcategory:
         name: Observability & Evaluation
         items:
@@ -85,6 +93,15 @@ landscape:
             project: opensource
             repo_url: https://github.com/langfuse/langfuse
             twitter: https://twitter.com/langfuse
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/traceloop
+            description: Traceloop monitors the quality of your LLM application in production using OpenTelemetry. It provides you with alerts, insights and gradual rollout capabilities to confidently deploy changes to your prompts and model configurations.
+            homepage_url: https://traceloop.com
+            logo: traceloop.svg
+            name: traceloop
+            project: opensource
+            repo_url: https://github.com/traceloop/openllmetry
+            twitter: https://twitter.com/traceloopdev
           - item:
             crunchbase: https://www.crunchbase.com/organization/helicone
             description: The easiest way to monitor your LLM-applications at scale
@@ -121,6 +138,15 @@ landscape:
             project: opensource
             repo_url: https://github.com/Giskard-AI/giskard
             twitter: https://twitter.com/giskard_ai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/greptime
+            description: Gain comprehensive insights into the cost, performance, feedback, traces of your LLM applications.
+            homepage_url: https://greptime.com/product/ai
+            logo: greptime.svg
+            name: GreptimeAI
+            project: opensource
+            repo_url: https://github.com/GreptimeTeam/greptimeai
+            twitter: https://twitter.com/Greptime
           - item:
             crunchbase: https://www.crunchbase.com/organization/weights-biases
             description: Weights & Biases helps AI developers build better models faster. Quickly track experiments, version and iterate on datasets, evaluate model performance, reproduce models, and manage your ML workflows end-to-end.
@@ -169,6 +195,18 @@ landscape:
             logo: gantry.svg
             name: GANTRY
             twitter: https://twitter.com/gantry_ml
+          - item:
+            description: Achieve Explainable AI with Contextual Bias Detection. PAM adds a contextual layer to your bias assessment methods. Ensure compliance, drive success, and foster responsible AI practices in your organization.
+            homepage_url: https://palqee.ai
+            logo: palqeepam.svg
+            name: Palqee PAM
+          - item:
+            description: Airtrain AI offers a LLM playground with a wide variety of open-source and proprietary models, a batch evaluation tool to compare models across entire datasets, and a no-code fine-tuning tool. All no-code, SaaS hosted, free to start.
+            homepage_url: https://airtrain.ai
+            name: Airtrain AI
+            twitter: https://twitter.com/AirtrainAI
+            crunchbase: https://www.crunchbase.com/organization/sematic-2bbe
+            logo: airtrain.svg
       - subcategory:
         name: IDE & Workspace
         items:
@@ -214,12 +252,36 @@ landscape:
             repo_url: https://github.com/reflex-dev/reflex
             twitter: https://twitter.com/getreflex
           - item:
+            crunchbase: https://www.crunchbase.com/organization/stability-ai
+            description: This UI allows for the design and execution of stable diffusion pipelines using a graph/nodes/flowchart based interface.
+            homepage_url: https://github.com/comfyanonymous/ComfyUI
+            logo: comfyui.svg
+            name: ComfyUI
+            project: opensource
+            repo_url: https://github.com/comfyanonymous/ComfyUI
+            twitter: https://twitter.com/stabilityai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/invoke-ai
+            description: InvokeAI is a leading deployment solution for image generation models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies.
+            homepage_url: https://www.invoke.com
+            logo: invoke.svg
+            name: Invoke
+            project: opensource
+            repo_url: https://github.com/invoke-ai/InvokeAI
+            twitter: https://twitter.com/Invoke_AI
+          - item:
             crunchbase: https://www.crunchbase.com/organization/grid-ai
             description: Lightning AI introduces a paradigm shift to AI development. Studio integrates your favorite ML tools into a single cohesive experience. It also eliminates the environment discrepancy between local code which runs on the cloud. This allows for trivial multi-node, scalable AI web apps, endpoints and more.
             homepage_url: https://lightning.ai/
             logo: lightning.svg
             name: Lightning Studio
-            twitter: https://twitter.com/LightningAI
+          - item:
+            crunchbase:
+            description: mlinfra deploys ML Infrastructure and MLOps tooling anywhere quickly and with best practices with a single command
+            homepage_url: https://mlinfra.io/latest/
+            logo: mlinfra.svg
+            name: mlinfra
+            twitter:
       - subcategory:
         name: Testing & Debugging
         items:
@@ -236,6 +298,14 @@ landscape:
       - subcategory:
         name: Workflow & Pipeline
         items:
+          - item:
+            description: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings and highest GPU availability — all with a simple interface.
+            homepage_url: https://github.com/skypilot-org/skypilot
+            logo: skypilot.svg
+            name: SkyPilot
+            project: opensource
+            repo_url: https://github.com/skypilot-org/skypilot
+            twitter: https://twitter.com/skypilot_org
           - item:
             description: Machine Learning Pipelines for Kubeflow
             homepage_url: https://www.kubeflow.org/
@@ -299,8 +369,17 @@ landscape:
     name: Data Management
     subcategories:
       - subcategory:
-        name: Data Version control
+        name: Storage
         items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/juicefs
+            description: JuiceFS is a high performance distributed file system for cloud, compatible with POSIX, HDFS and S3 API
+            homepage_url: https://juicefs.com
+            logo: juicefs.svg
+            name: JuiceFS
+            project: opensource
+            repo_url: https://github.com/juicedata/juicefs
+            twitter: https://twitter.com/juicedatainc
           - item:
             crunchbase: https://www.crunchbase.com/organization/treeverse
             description: LakeFS is a developer of a scalable data version control system
@@ -309,7 +388,7 @@ landscape:
             name: lakeFS
             project: opensource
             repo_url: https://github.com/treeverse/lakeFS
-            twitter: https://twitter.com/lakeFS              
+            twitter: https://twitter.com/lakeFS
       - subcategory:
         name: Vector Database
         items:
@@ -376,7 +455,7 @@ landscape:
             twitter: https://twitter.com/lancedb
           - item:
             crunchbase: https://www.crunchbase.com/organization/vespa-ai
-            description:  the open source platform for combining data and AI, online.
+            description: the open source platform for combining data and AI, online.
             homepage_url: https://vespa.ai
             logo: vespa.svg
             name: vespa
@@ -490,6 +569,15 @@ landscape:
             repo_url: https://github.com/chat2db/Chat2DB
             twitter: https://twitter.com/chat2_db
           - item:
+            crunchbase: https://www.crunchbase.com/organization/vanna-ai
+            description: Chat with your SQL. Python package for accurate Text-to-SQL Generation via LLMs using RAG
+            homepage_url: https://vanna.ai/
+            logo: vanna.svg
+            name: Vanna.AI
+            project: opensource
+            repo_url: https://github.com/vanna-ai/vanna
+            twitter: https://twitter.com/vannadotai
+          - item:
             description: Improve your SQL skills and save time using AI by generating optimized SQL queries effortlessly!
             homepage_url: https://www.text2sql.ai/
             logo: text2sql.svg
@@ -513,15 +601,6 @@ landscape:
       - subcategory:
         name: Inference & Deployment
         items:
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/huggingface
-            description: The AI community building the future.
-            homepage_url: https://huggingface.co/
-            logo: huggingface.svg
-            name: huggingface
-            project: opensource
-            repo_url: https://github.com/huggingface
-            twitter: https://twitter.com/huggingface
           - item:
             crunchbase: https://www.crunchbase.com/organization/bentoml
             description: BentoML is the platform for software engineers to build AI products.
@@ -573,6 +652,14 @@ landscape:
             repo_url: https://github.com/replicate/cog
             twitter: https://twitter.com/replicate
           - item:
+            description: LLM inference in pure C/C++
+            homepage_url: https://ggml.ai/
+            repo_url: https://github.com/ggerganov/ggml
+            logo: ggml.svg
+            name: GGML
+            project: opensource
+            twitter: https://twitter.com/ggerganov
+          - item:
             crunchbase: https://www.crunchbase.com/organization/lepton
             description: Run AI applications efficiently, at scale, and in minutes with a cloud native platform.
             homepage_url: https://www.lepton.ai/
@@ -581,6 +668,24 @@ landscape:
             project: opensource
             repo_url: https://github.com/leptonai/leptonai
             twitter: https://twitter.com/leptonAI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/huggingface
+            description: The AI community building the future.
+            homepage_url: https://huggingface.co/
+            logo: huggingface.svg
+            name: huggingface
+            project: opensource
+            repo_url: https://github.com/huggingface
+            twitter: https://twitter.com/huggingface
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/xorbits
+            description: Xorbits Inference(Xinference) is a powerful and versatile library designed to serve language, speech recognition, and multimodal models. With Xorbits Inference, you can effortlessly deploy and serve your or state-of-the-art built-in models using just a single command. Whether you are a researcher, developer, or data scientist, Xorbits Inference empowers you to unleash the full potential of cutting-edge AI models.
+            homepage_url: https://xorbits.io/
+            logo: xorbits.svg
+            name: xinference
+            project: opensource
+            repo_url: https://github.com/xorbitsai/inference
+            twitter: https://twitter.com/xorbitsio
           - item:
             crunchbase: https://www.crunchbase.com/organization/deep-infra
             description: Fast ML Inference, Simple API
@@ -659,13 +764,19 @@ landscape:
             name: DCE 5.0
             twitter: https://twitter.com/daocloud_io
           - item:
-            description: LLM inference in pure C/C++
-            homepage_url: https://ggml.ai/
-            repo_url: https://github.com/ggerganov/ggml
-            logo: ggml.svg
-            name: GGML
-            project: opensource
-            twitter: https://twitter.com/ggerganov
+            crunchbase: https://www.crunchbase.com/organization/neuro-ai
+            description: Run AI models as a scalable and secure API in your cloud or on our serverless cloud.
+            homepage_url: https://www.mystic.ai/
+            logo: mystic.svg
+            name: Mystic AI
+            twitter: https://twitter.com/mysticdotai
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/dutch-analytics
+            description: Powerful AI model serving and orchestration with unmatched simplicity, speed and scale. In cloud, on-premise, hybrid or multicloud.
+            homepage_url: https://ubiops.com/
+            logo: ubiops.svg
+            name: UbiOps
+            twitter: https://twitter.com/UbiOps_
       - subcategory:
         name: Finetuning & RLHF
         items:
@@ -824,6 +935,19 @@ landscape:
             logo: lambda.svg
             name: Lambda Labs
             twitter: https://twitter.com/lambdaapi
+          - item:
+            description: AI-centric cloud platform ready for intensive workloads with NVIDIA® H100 Tensor Core GPUs.
+            homepage_url: https://nebius.ai
+            logo: nebiusai.svg
+            name: Nebius AI
+            twitter: https://twitter.com/nebiusofficial
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/latitudesh
+            description: Deploy dedicated GPU clusters and GPU Containers in seconds
+            homepage_url: https://www.latitude.sh/
+            logo: latitudesh.svg
+            name: Latitude.sh
+            twitter: https://twitter.com/latitudesh
       - subcategory:
         name: GPU
         items:
@@ -841,3 +965,13 @@ landscape:
             logo: graphcore.svg
             name: GRAPHCORE
             twitter: https://twitter.com/graphcoreai
+      - subcategory:
+        name: Cameras & EdgeAI
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/luxonis
+            description: Luxonis builds stereo depth cameras with built-in AI accelerator
+            homepage_url: https://luxonis.com/
+            logo: luxonis.svg
+            name: Luxonis
+            twitter: https://twitter.com/luxonis/
