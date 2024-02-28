@@ -191,6 +191,15 @@ landscape:
             homepage_url: https://palqee.ai
             logo: palqeepam.svg
             name: Palqee PAM
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/greptime
+            description: Gain comprehensive insights into the cost, performance, feedback, traces of your LLM applications.
+            homepage_url: https://greptime.com/product/ai
+            logo: greptime.svg
+            name: GreptimeAI
+            project: opensource
+            repo_url: https://github.com/GreptimeTeam/greptimeai
+            twitter: https://twitter.com/Greptime
       - subcategory:
         name: IDE & Workspace
         items:
