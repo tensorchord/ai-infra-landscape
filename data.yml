@@ -100,6 +100,15 @@ landscape:
             repo_url: https://github.com/langfuse/langfuse
             twitter: https://twitter.com/langfuse
           - item:
+            crunchbase: https://www.crunchbase.com/organization/traceloop
+            description: Traceloop monitors the quality of your LLM application in production using OpenTelemetry. It provides you with alerts, insights and gradual rollout capabilities to confidently deploy changes to your prompts and model configurations.
+            homepage_url: https://traceloop.com
+            logo: traceloop.svg
+            name: mlflow
+            project: opensource
+            repo_url: https://github.com/traceloop/openllmetry
+            twitter: https://twitter.com/traceloopdev
+          - item:
             crunchbase: https://www.crunchbase.com/organization/helicone
             description: The easiest way to monitor your LLM-applications at scale
             homepage_url: https://www.helicone.ai/
