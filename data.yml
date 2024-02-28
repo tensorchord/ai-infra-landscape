@@ -752,6 +752,15 @@ landscape:
             logo: ubiops.svg
             name: UbiOps
             twitter: https://twitter.com/UbiOps_
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/xorbits
+            description: Xorbits Inference(Xinference) is a powerful and versatile library designed to serve language, speech recognition, and multimodal models. With Xorbits Inference, you can effortlessly deploy and serve your or state-of-the-art built-in models using just a single command. Whether you are a researcher, developer, or data scientist, Xorbits Inference empowers you to unleash the full potential of cutting-edge AI models.
+            homepage_url: https://xorbits.io/
+            logo: xorbits.svg
+            name: xinference
+            project: opensource
+            repo_url: https://github.com/xorbitsai/inference
+            twitter: https://twitter.com/xorbitsio
       - subcategory:
         name: Finetuning & RLHF
         items:
