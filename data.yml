@@ -76,6 +76,14 @@ landscape:
         name: Observability & Evaluation
         items:
           - item:
+            description: Airtrain AI offers a LLM playground with a wide variety of open-source and proprietary models, a batch evaluation tool to compare models across entire datasets, and a no-code fine-tuning tool. All no-code, SaaS 
+hosted, free to start.
+            homepage_url: https://airtrain.ai
+            name: Airtrain AI
+            twitter: https://twitter.com/AirtrainAI
+            crunchbase: https://www.crunchbase.com/organization/sematic-2bbe
+            logo: airtrain.svg
+          - item:
             description: MLflow is an open-source platform, purpose-built to assist machine learning practitioners and teams in handling the complexities of the machine learning process. MLflow focuses on the full lifecycle for machine learning projects, ensuring that each phase is manageable, traceable, and reproducible.
             homepage_url: https://mlflow.org/docs/latest/index.html
             logo: mlflow.svg
