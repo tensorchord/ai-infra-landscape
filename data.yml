@@ -76,6 +76,11 @@ landscape:
         name: Observability & Evaluation
         items:
           - item:
+            description: 🪢 Achieve Explainable AI with Contextual Bias Detection. PAM adds a contextual layer to your bias assessment methods. Ensure compliance, drive success, and foster responsible AI practices in your organization.
+            homepage_url: https://palqee.ai
+            logo: palqeeai.svg
+            name: Palqee PAM
+          - item:
             description: MLflow is an open-source platform, purpose-built to assist machine learning practitioners and teams in handling the complexities of the machine learning process. MLflow focuses on the full lifecycle for machine learning projects, ensuring that each phase is manageable, traceable, and reproducible.
             homepage_url: https://mlflow.org/docs/latest/index.html
             logo: mlflow.svg
@@ -186,11 +191,6 @@ landscape:
             logo: gantry.svg
             name: GANTRY
             twitter: https://twitter.com/gantry_ml
-          - item:
-            description: Achieve Explainable AI with Contextual Bias Detection. PAM adds a contextual layer to your bias assessment methods. Ensure compliance, drive success, and foster responsible AI practices in your organization.
-            homepage_url: https://palqee.ai
-            logo: palqeepam.svg
-            name: Palqee PAM
       - subcategory:
         name: IDE & Workspace
         items:
