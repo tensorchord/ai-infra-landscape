@@ -142,7 +142,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/greptime
             description: Gain comprehensive insights into the cost, performance, feedback, traces of your LLM applications.
             homepage_url: https://greptime.com/product/ai
-            logo: greptime.svg
+            logo: greptime_cloud.svg
             name: GreptimeAI
             project: opensource
             repo_url: https://github.com/GreptimeTeam/greptimeai
