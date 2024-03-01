@@ -942,6 +942,7 @@ landscape:
             name: Lambda Labs
             twitter: https://twitter.com/lambdaapi
           - item:
+            crunchbase: https://www.crunchbase.com/organization/nebius
             description: AI-centric cloud platform ready for intensive workloads with NVIDIA® H100 Tensor Core GPUs.
             homepage_url: https://nebius.ai
             logo: nebiusai.svg
