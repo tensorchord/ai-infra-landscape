@@ -297,6 +297,14 @@ landscape:
     subcategories:
       - subcategory:
         name: Workflow & Pipeline
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/eden-ai
+            description: An all-in-one comprehensive and hassle-free AI development platform (Go beyond the LLM hype). 
+            homepage_url: https://edenai.co/
+            logo: edenai.svg
+            name: Eden AI
+            repo_url: https://github.com/edenai/edenai-apis
+            twitter: https://linkedin.com/company/edenai
         items:
           - item:
             description: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings and highest GPU availability — all with a simple interface.
@@ -344,6 +352,14 @@ landscape:
       - subcategory:
         name: Gateway & Router
         items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/eden-ai
+            description: An all-in-one comprehensive and hassle-free AI development platform (Go beyond the LLM hype). 
+            homepage_url: https://edenai.co/
+            logo: edenai.svg
+            name: Eden AI
+            repo_url: https://github.com/edenai/edenai-apis
+            twitter: https://linkedin.com/company/edenai
           - item:
             crunchbase: https://www.crunchbase.com/organization/portkey
             description: A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
