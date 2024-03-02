@@ -583,6 +583,13 @@ landscape:
             logo: text2sql.svg
             name: text2sql
             twitter: https://twitter.com/text2sql
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/telescope-metanalytics
+            description: Data driven decision-making made simple. No need for SQL or endless dashboards. Get the answers you need from your data, effortlessly, with the power of AI.
+            homepage_url: https://www.telescopelabs.io/
+            logo: telescopelabs.svg
+            name: Telescope Labs
+            twitter: https://twitter.com/TelescopeLabs
       - subcategory:
         name: Data Curation
         items:
