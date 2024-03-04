@@ -790,6 +790,12 @@ landscape:
             logo: inferless.svg
             name: Inferless
             twitter: https://twitter.com/Inferless_
+          - item:
+            description: Stack for integrating generative AI with your most confidential data. Deploy to on-premises, hybrid- or private cloud environments.
+            homepage_url: https://www.confidentialmind.com/
+            logo: confidentialmind.svg
+            name: ConfidentialMind
+            twitter: https://twitter.com/ConfiMind
       - subcategory:
         name: Finetuning & RLHF
         items:
