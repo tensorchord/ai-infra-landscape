@@ -413,7 +413,7 @@ landscape:
             twitter: https://twitter.com/weaviate_io
           - item:
             crunchbase: https://www.crunchbase.com/organization/epsilla
-            description: A high performance Vector Database
+            description: 10x faster vector database and one-stop RAGaaS platform for building LLM applications
             homepage_url: https://epsilla.com
             logo: epsilla.svg
             name: epsilla
