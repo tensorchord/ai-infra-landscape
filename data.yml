@@ -424,7 +424,7 @@ landscape:
             description: 10x faster vector database and one-stop RAGaaS platform for building LLM applications
             homepage_url: https://epsilla.com
             logo: epsilla.svg
-            name: epsilla
+            name: Epsilla
             project: opensource
             repo_url: https://github.com/epsilla-cloud/vectordb
             twitter: https://twitter.com/epsilla_inc           
