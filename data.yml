@@ -420,6 +420,15 @@ landscape:
             repo_url: https://github.com/chroma-core/chroma
             twitter: https://twitter.com/weaviate_io
           - item:
+            crunchbase: https://www.crunchbase.com/organization/epsilla
+            description: 10x faster vector database and one-stop RAGaaS platform for building LLM applications
+            homepage_url: https://epsilla.com
+            logo: epsilla.svg
+            name: Epsilla
+            project: opensource
+            repo_url: https://github.com/epsilla-cloud/vectordb
+            twitter: https://twitter.com/epsilla_inc
+          - item:
             crunchbase: https://www.crunchbase.com/organization/zilliz
             description: Vector database built for scalable similarity search
             homepage_url: https://milvus.io/
