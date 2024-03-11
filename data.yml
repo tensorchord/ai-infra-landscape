@@ -80,6 +80,13 @@ landscape:
             project: opensource
             repo_url: https://github.com/FloomAI/Floom
             twitter: https://twitter.com/Floom_AI
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/dataspark-ai
+            description: DataSpark is a framework that offers AI Agents as-a-service, enabling enterprises to combine the power of multiple agents in one single platform.
+            homepage_url: https://ai.dataspark.org/
+            logo: DataSparkAI.svg
+            name: DataSpark AI
+            twitter: https://twitter.com/datasparkapp
       - subcategory:
         name: Observability & Evaluation
         items:
