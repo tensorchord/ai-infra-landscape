@@ -370,6 +370,11 @@ landscape:
         name: Gateway & Router
         items:
           - item:
+            description: The Best LLM on Every prompt.
+            homepage_url: https://unify.ai/
+            logo: unify.svg
+            name: Unify
+          - item:
             crunchbase: https://www.crunchbase.com/organization/portkey
             description: A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
             homepage_url: https://portkey.ai/
