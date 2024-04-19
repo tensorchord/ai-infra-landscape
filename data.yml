@@ -617,6 +617,15 @@ landscape:
             repo_url: https://github.com/vanna-ai/vanna
             twitter: https://twitter.com/vannadotai
           - item:
+            crunchbase: https://www.crunchbase.com/organization/cannerdata
+            description: Talk To Your Database. Get Accurate And Explainable Answers.
+            homepage_url: https://www.getwren.ai/
+            logo: wrenai.svg
+            name: WrenAI
+            project: opensource
+            repo_url: https://github.com/Canner/WrenAI
+            twitter: https://twitter.com/getwrenai
+          - item:
             description: Improve your SQL skills and save time using AI by generating optimized SQL queries effortlessly!
             homepage_url: https://www.text2sql.ai/
             logo: text2sql.svg
