@@ -844,6 +844,12 @@ landscape:
             logo: confidentialmind.svg
             name: ConfidentialMind
             twitter: https://twitter.com/ConfiMind
+          - item:
+            description: GpuMall英文简介 abc.
+            homepage_url: https://gpumall.com
+            repo_url: https://github.com/gpumall-com
+            logo: gpumall.svg
+            name: GpuMall
       - subcategory:
         name: Finetuning & RLHF
         items:
