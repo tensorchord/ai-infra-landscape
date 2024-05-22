@@ -844,6 +844,11 @@ landscape:
             logo: confidentialmind.svg
             name: ConfidentialMind
             twitter: https://twitter.com/ConfiMind
+          - item:
+            description: GpuMall is a GPU cloud platform for AI developers and smes. Help users accelerate model development and deployment.
+            homepage_url: https://gpumall.com
+            logo: gpumall.svg
+            name: GpuMall
       - subcategory:
         name: Finetuning & RLHF
         items:
