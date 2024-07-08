@@ -349,6 +349,15 @@ landscape:
             repo_url: https://github.com/flyteorg/flyte
             twitter: https://twitter.com/flyteorg
           - item:
+            crunchbase: https://www.crunchbase.com/organization/instill-ai
+            description: 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
+            homepage_url: https://www.instill.tech/
+            logo: instillai.svg
+            name: InstillAI
+            project: opensource
+            repo_url: https://github.com/instill-ai/instill-core
+            twitter: https://twitter.com/instill_tech
+          - item:
             crunchbase: https://www.crunchbase.com/organization/outerbounds
             description: Open-source Metaflow makes it quick and easy to build and manage real-life ML, AI, and data science projects.
             homepage_url: https://metaflow.org/
@@ -525,6 +534,15 @@ landscape:
         name: ETL & Data Pipeline
         items:
           - item:
+            crunchbase: https://www.crunchbase.com/organization/instill-ai
+            description: 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
+            homepage_url: https://www.instill.tech/
+            logo: instillai.svg
+            name: InstillAI
+            project: opensource
+            repo_url: https://github.com/instill-ai/instill-core
+            twitter: https://twitter.com/instill_tech
+          - item:
             crunchbase: https://www.crunchbase.com/organization/airbyte-b3bb
             description: Airbyte an open-source data integration platform with built-in connectors for AI data pipelines.
             homepage_url: https://airbyte.com
@@ -656,6 +674,15 @@ landscape:
       - subcategory:
         name: Inference & Deployment
         items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/instill-ai
+            description: 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
+            homepage_url: https://www.instill.tech/
+            logo: instillai.svg
+            name: InstillAI
+            project: opensource
+            repo_url: https://github.com/instill-ai/instill-core
+            twitter: https://twitter.com/instill_tech
           - item:
             crunchbase: https://www.crunchbase.com/organization/bentoml
             description: BentoML is the platform for software engineers to build AI products.
