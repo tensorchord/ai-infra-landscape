@@ -428,6 +428,15 @@ landscape:
             project: opensource
             repo_url: https://github.com/treeverse/lakeFS
             twitter: https://twitter.com/lakeFS
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/dragonfly
+            description: Provide efficient, stable, secure file distribution and image acceleration based on P2P technology.
+            homepage_url: https://d7y.io/
+            logo: dragonfly.svg
+            name: Dragonfly
+            project: cncf
+            repo_url: https://github.com/dragonflyoss/Dragonfly2
+            twitter: https://twitter.com/dragonfly_oss
       - subcategory:
         name: Vector Database
         items:
