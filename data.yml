@@ -536,6 +536,8 @@ landscape:
           - item:
             description: The SQL Vector Database for Scalable AI
             homepage_url: https://myscale.com/
+            project: opensource
+            repo_url: https://github.com/myscale/MyScaleDB/
             logo: myscale.svg
             name: MyScale
             twitter: https://twitter.com/MyScaleDB
