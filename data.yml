@@ -321,6 +321,17 @@ landscape:
     name: Orchestration
     subcategories:
       - subcategory:
+        name: AI platform consulting and automation
+        items:
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/cloudraft
+            description: End to End AI Platform and solutioning for baremetal cloud & GPUs.
+            homepage_url: https://cloudraft.io/
+            logo: cloudraft.svg
+            name: CloudRaft
+            repo_url: https://github.com/cloudraftio
+            twitter: https://twitter.com/cloudraftio
+      - subcategory:
         name: Workflow & Pipeline
         items:
           - item:
